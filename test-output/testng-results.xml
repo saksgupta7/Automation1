@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="13" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-10T00:56:47 IST" name="Suite" finished-at="2024-04-10T01:02:02 IST" duration-ms="314887">
+    <groups>
+    </groups>
+    <test started-at="2024-04-10T00:56:47 IST" name="Test" finished-at="2024-04-10T01:02:02 IST" duration-ms="314887">
+      <class name="com.test.TeamMembersPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:57:59 IST" name="setUp" finished-at="2024-04-10T00:58:21 IST" duration-ms="22257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="iClickOnAddTeamMemberButton()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:58:21 IST" name="iClickOnAddTeamMemberButton" finished-at="2024-04-10T00:58:21 IST" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iClickOnAddTeamMemberButton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:58:21 IST" name="tearDown" finished-at="2024-04-10T00:58:21 IST" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:58:21 IST" name="setUp" finished-at="2024-04-10T00:58:42 IST" duration-ms="20889" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateCreateProfileHeader()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:58:42 IST" name="validateCreateProfileHeader" finished-at="2024-04-10T00:58:43 IST" duration-ms="727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCreateProfileHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:58:43 IST" name="tearDown" finished-at="2024-04-10T00:58:43 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:58:43 IST" name="setUp" finished-at="2024-04-10T00:58:53 IST" duration-ms="9453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateDeleteTeamMember()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:58:53 IST" name="validateDeleteTeamMember" finished-at="2024-04-10T00:59:25 IST" duration-ms="32271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteTeamMember -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:59:25 IST" name="tearDown" finished-at="2024-04-10T00:59:25 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:59:25 IST" name="setUp" finished-at="2024-04-10T00:59:37 IST" duration-ms="11977" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateTeamMemberAndVerify()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T00:59:37 IST" name="validateTeamMemberAndVerify" finished-at="2024-04-10T01:00:04 IST" duration-ms="27000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTeamMemberAndVerify -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:00:04 IST" name="tearDown" finished-at="2024-04-10T01:00:04 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:00:04 IST" name="setUp" finished-at="2024-04-10T01:00:14 IST" duration-ms="9213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateTeamMemberPageHeader()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:00:14 IST" name="validateTeamMemberPageHeader" finished-at="2024-04-10T01:00:14 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTeamMemberPageHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:00:14 IST" name="tearDown" finished-at="2024-04-10T01:00:14 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:00:14 IST" name="setUp" finished-at="2024-04-10T01:00:32 IST" duration-ms="17842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAddAndEditNewTeamMember()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:00:32 IST" name="verifyAddAndEditNewTeamMember" finished-at="2024-04-10T01:01:30 IST" duration-ms="57809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddAndEditNewTeamMember -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:01:30 IST" name="tearDown" finished-at="2024-04-10T01:01:30 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:01:30 IST" name="setUp" finished-at="2024-04-10T01:01:40 IST" duration-ms="9776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTeamMemberIsAdded()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:01:40 IST" name="verifyTeamMemberIsAdded" finished-at="2024-04-10T01:02:02 IST" duration-ms="21724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTeamMemberIsAdded -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.TeamMembersPageTest@3c7f66c4]" started-at="2024-04-10T01:02:02 IST" name="tearDown" finished-at="2024-04-10T01:02:02 IST" duration-ms="237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.TeamMembersPageTest -->
+      <class name="com.test.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.LoginPageTest@2805d709]" started-at="2024-04-10T00:57:08 IST" name="setUp" finished-at="2024-04-10T00:57:13 IST" duration-ms="4789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTile()[pri:0, instance:com.test.LoginPageTest@2805d709]" started-at="2024-04-10T00:57:13 IST" name="verifyHomePageTile" finished-at="2024-04-10T00:57:13 IST" duration-ms="438" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [null] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [null] but found []
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.test.LoginPageTest.verifyHomePageTile(LoginPageTest.java:38)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginPageTest@2805d709]" started-at="2024-04-10T00:57:13 IST" name="tearDown" finished-at="2024-04-10T00:57:13 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.LoginPageTest@2805d709]" started-at="2024-04-10T00:57:13 IST" name="setUp" finished-at="2024-04-10T00:57:17 IST" duration-ms="3935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLogin()[pri:0, instance:com.test.LoginPageTest@2805d709]" started-at="2024-04-10T00:57:17 IST" name="verifyLogin" finished-at="2024-04-10T00:57:18 IST" duration-ms="348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.LoginPageTest@2805d709]" started-at="2024-04-10T00:57:18 IST" name="tearDown" finished-at="2024-04-10T00:57:18 IST" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.LoginPageTest -->
+      <class name="com.test.SetupPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:18 IST" name="setUp" finished-at="2024-04-10T00:57:27 IST" duration-ms="9323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="iClickOnManageButtonforTeamManagement()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:27 IST" name="iClickOnManageButtonforTeamManagement" finished-at="2024-04-10T00:57:28 IST" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iClickOnManageButtonforTeamManagement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:28 IST" name="tearDown" finished-at="2024-04-10T00:57:28 IST" duration-ms="180" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:28 IST" name="setUp" finished-at="2024-04-10T00:57:37 IST" duration-ms="8754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateManagementTeamMembersHeader()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:37 IST" name="validateManagementTeamMembersHeader" finished-at="2024-04-10T00:57:37 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateManagementTeamMembersHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:37 IST" name="tearDown" finished-at="2024-04-10T00:57:37 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:37 IST" name="setUp" finished-at="2024-04-10T00:57:58 IST" duration-ms="20787" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyAccountSetUpHeader()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:58 IST" name="verifyAccountSetUpHeader" finished-at="2024-04-10T00:57:58 IST" duration-ms="343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAccountSetUpHeader -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.SetupPageTest@3ee37e5a]" started-at="2024-04-10T00:57:58 IST" name="tearDown" finished-at="2024-04-10T00:57:59 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.SetupPageTest -->
+      <class name="com.test.DashboardPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.DashboardPageTest@53fdffa1]" started-at="2024-04-10T00:56:47 IST" name="setUp" finished-at="2024-04-10T00:56:53 IST" duration-ms="6211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="iClickOnSetUpAndVerifyTile()[pri:0, instance:com.test.DashboardPageTest@53fdffa1]" started-at="2024-04-10T00:56:53 IST" name="iClickOnSetUpAndVerifyTile" finished-at="2024-04-10T00:57:02 IST" duration-ms="8448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iClickOnSetUpAndVerifyTile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.DashboardPageTest@53fdffa1]" started-at="2024-04-10T00:57:02 IST" name="tearDown" finished-at="2024-04-10T00:57:02 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.DashboardPageTest@53fdffa1]" started-at="2024-04-10T00:57:02 IST" name="setUp" finished-at="2024-04-10T00:57:08 IST" duration-ms="5719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyHomePageTile()[pri:0, instance:com.test.DashboardPageTest@53fdffa1]" started-at="2024-04-10T00:57:08 IST" name="verifyHomePageTile" finished-at="2024-04-10T00:57:08 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.DashboardPageTest@53fdffa1]" started-at="2024-04-10T00:57:08 IST" name="tearDown" finished-at="2024-04-10T00:57:08 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.DashboardPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
